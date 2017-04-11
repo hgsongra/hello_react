@@ -1,0 +1,21 @@
+{
+  "name": "hello_react",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hgsongra/hello_react.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hgsongra/hello_react/issues"
+  },
+  "dependencies": {
+    "webpack": "~2.3.3"
+  }
+}
