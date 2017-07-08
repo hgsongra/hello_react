@@ -2,6 +2,10 @@
   "name": "hello_react",
   "version": "1.0.0",
   "description": "React and Redux",
+  "scripts":{
+    "prestart": "babel-node tools/startMessage.js",
+    "start": "babel-node tools/srcServer.js"
+  },
   "author": "Hitesh Songra",
   "license": "MIT",
   "dependencies": {
